@@ -1,6 +1,8 @@
+
 {
-    "short_name": "CX2",
-    "name": "Cx2 - Santa Fe App",
+  "short_name": "Cx2",
+  "name": "Cx2 - Santa Fe App",
+  "description": "Aplicación PWA para CX2 Santa Fe",
     "icons": [
       {
         "src": "192.png",
@@ -13,8 +15,9 @@
         "type": "image/png"
       }
     ],
-    "start_url": "/dashboard",
-    "background_color": "#ffffff",
-    "display": "standalone",
-    "theme_color": "#000000"
-  }
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait"
+}
