@@ -1,16 +1,16 @@
 const CACHE_NAME = "Cx2-app-cache-v1";
 const urlsToCache = [
-  "/",
-  "/index.html",
-  "/manifest.json",
-  "/pwa/192.png",
-  "/pwa/512.png",
-  "/form",
+  // "/",
+  // "/index.html",
+  // "/manifest.json",
+  // "/pwa/192.png",
+  // "/pwa/512.png",
+  // "/form",
   "/dashboard",
-  "/galeriacx2",
-  "/galeriavehiculos",
-  "/informespost",
-  "/GaleriaBuscados"
+  // "/galeriacx2",
+  // "/galeriavehiculos",
+  // "/informespost",
+  // "/GaleriaBuscados"
 ];
 
 self.addEventListener("install", (event) => {
